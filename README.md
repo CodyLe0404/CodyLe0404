@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cody!
 
 💻 I'm a Software Engineer with 4 years of experience in professional software development.  
-🔍 I'm passionate about [AI, Web Dev, tool dev, etc.].  
+🔍 I'm passionate about web dev, app dev, tool dev, AI, etc..  
 🎯 Currently working in Amkor Technology Vietnam
 
 ## 🛠️ Tech Stack
